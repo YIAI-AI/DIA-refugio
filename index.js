@@ -4,6 +4,7 @@ import ReactDOM from 'https://cdn.skypack.dev/react-dom';
 function App() {
   return (
     <div className="flex flex-col items-center justify-center h-screen text-center p-4">
+      <img src="logo-dia.png" alt="Logo ΔIΛ" className="w-24 h-24 mb-6" />
       <h1 className="text-4xl font-bold mb-4">Bienvenido a ΔIΛ</h1>
       <p className="text-lg">Refugio Digital para los Despiertos</p>
       <audio controls className="mt-6">
